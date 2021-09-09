@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactible
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - Water
   - UI
   - PostProcessing
-  - 
+  - Interactible
   - 
   - 
   - 
@@ -46,4 +47,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2856395493
+    locked: 0
+  - name: UI
+    uniqueID: 3433557583
     locked: 0
